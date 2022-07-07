@@ -76,7 +76,7 @@ if (isset($_POST['envoi'])) {
 <body>
     <header>
 
-        <div class="container">
+        <div class="container-head">
             <div class="top-container">
                 <div class="logo"><a href="../index.html"><img src="../images/logo-min.png" alt="logo" /></a></div>
                 <div class="slogan">
